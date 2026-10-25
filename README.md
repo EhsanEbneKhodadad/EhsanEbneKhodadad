@@ -6,9 +6,9 @@ I work across frontend architecture, backend services, databases, search, automa
 
 ## What I work with
 
-- **Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS, Material UI
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
 - **Backend:** C#, ASP.NET Core, REST APIs, background jobs, queue-based systems
-- **Data and search:** PostgreSQL, MySQL, Elasticsearch
+- **Data and search:** PostgreSQL, Elasticsearch
 - **Quality:** Jest, Cypress, code review, maintainable architecture
 - **Infrastructure:** Docker, GitLab CI/CD, AWS EC2 and S3, Kibana
 
